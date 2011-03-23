@@ -1,6 +1,6 @@
 = Documentation pour les développeurs =
 
-  * [doc_dev Organisation du code et normes de codage]
+  * [dev_normes Organisation du code et normes de codage]
 
 
 <br>
