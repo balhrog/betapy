@@ -6,7 +6,7 @@
 
 
 == Aide-mémoire pour l'organisation du code ==
-  source: [PEP-8 cheatsheet http://wwd.ca/blog/2009/07/09/pep-8-cheatsheet/]
+  source: [http://wwd.ca/blog/2009/07/09/pep-8-cheatsheet/ PEP-8 cheatsheet]
 
 {{{
 #! /usr/bin/env python
