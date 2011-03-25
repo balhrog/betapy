@@ -1,3 +1,3 @@
-# documentation pour les utilisateurs de la librairie
+#summary documentation pour les utilisateurs de la librairie
 
 == Introduction ==
