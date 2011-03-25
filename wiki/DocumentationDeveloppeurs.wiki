@@ -1,7 +1,7 @@
 #summary Documentation pour les développeurs de la librairie.
 #labels Featured
 
-= Details =
+= Les directives développeurs =
 
   * [dev_normes Organisation du code et normes de codage]
 
