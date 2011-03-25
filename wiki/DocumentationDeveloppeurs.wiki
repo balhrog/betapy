@@ -1,11 +1,6 @@
 #summary Documentation pour les développeurs de la librairie.
 #labels Featured
 
-= Introduction =
-
-Add your content here.
-
-
 = Details =
 
-* [dev_normes Organisation du code et normes de codage]
+  * [dev_normes Organisation du code et normes de codage]
