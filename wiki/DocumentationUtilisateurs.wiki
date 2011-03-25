@@ -1,3 +1,4 @@
 #summary documentation pour les utilisateurs de la librairie
+#labels Featured
 
 == Introduction ==
