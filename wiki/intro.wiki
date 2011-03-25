@@ -1,10 +1,8 @@
-= Documentation pour les développeurs =
 
-  * [dev_normes Organisation du code et normes de codage]
 
+
+= [DocumentationUtilisateurs Documentation pour les utilisateurs] =
 
 <br>
-----
-<br>
 
-= Documentation pour les utilisateurs =
+= [DocumentationDeveloppeurs Documentation pour les Développeurs] =
