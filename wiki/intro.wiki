@@ -1,9 +1,8 @@
-
   * = [DocumentationUtilisateurs Documentation pour les utilisateurs] =
 
 <br>
 
-  * = [DocumentationDeveloppeurs Documentation pour les Développeurs] =
+  * = [DocumentationDeveloppeurs Documentation pour les développeurs] =
 
 
 
