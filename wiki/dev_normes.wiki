@@ -6,7 +6,7 @@
 
 == Traduction en français ==
 
-voici une [http://www.biologeek.com/bonnes-pratiques%2Cconferences%2Cdjango%2Cpython%2Ctraduction/bonnes-pratiques-et-astuces-python/ bonne traduction française du style guide pour le code python].
+voici une [http://www.biologeek.com/bonnes-pratiques%2Cconferences%2Cdjango%2Cpython%2Ctraduction/bonnes-pratiques-et-astuces-python/ petite traduction française du style guide pour le code python].
 
 <br>
 
