@@ -1,4 +1,35 @@
 #summary documentation pour les utilisateurs de la librairie
 #labels Featured
 
-== Introduction ==
+== Recettes et exemples ==
+
+{{{
+>>> import betapy
+>>> beta = betapy.Beta()
+>>> print beta.shows_display("dexter")
+{'show': {u'status': u'Continuing', ...}
+}}}
+
+
+{{{
+>>> import betapy
+>>> beta = betapy.Beta(login="dev001", password="developer")
+>>> print beta.members_auth()
+{u'member': {u'login': u'dev001', u'token': u'aee2fb8d0b9a'}, ...}
+}}}
+
+
+{{{ 
+>>> import betapy
+>>> beta = betapy.Beta(format="xml")
+>>> print beta.subtitles_last()
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <subtitles>
+  <subtitle>
+   <title>Castle (2009)</title>
+   <season>3</season>
+   <episode>18</episode>
+   ...
+
+}}}
