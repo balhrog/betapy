@@ -3,6 +3,7 @@
 
 == Recettes et exemples ==
 
+=== Récupérer les informations d'une séries ===
 {{{
 >>> import betapy
 >>> beta = betapy.Beta()
@@ -10,7 +11,7 @@
 {'show': {u'status': u'Continuing', ...}
 }}}
 
-
+=== Authentification du membre ===
 {{{
 >>> import betapy
 >>> beta = betapy.Beta(login="dev001", password="developer")
@@ -18,7 +19,7 @@
 {u'member': {u'login': u'dev001', u'token': u'aee2fb8d0b9a'}, ...}
 }}}
 
-
+=== Récupération de la liste des derniers sous-titres ===
 {{{ 
 >>> import betapy
 >>> beta = betapy.Beta(format="xml")
